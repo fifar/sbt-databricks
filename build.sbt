@@ -8,7 +8,7 @@ name := "sbt-databricks"
 
 version := "0.1.6-SNAPSHOT"
 
-scalaVersion := "2.11.11"
+scalaVersion := "2.10.4"
 
 libraryDependencies ++= Seq(
     "org.apache.httpcomponents" % "httpclient" % "4.3.3",
